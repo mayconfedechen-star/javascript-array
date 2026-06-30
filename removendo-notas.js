@@ -4,7 +4,7 @@ notas.pop();
 
 
 const media = ( notas[0] + notas [1] + notas [2] + notas [3]) / notas.length;
-
+const media = (' notas 0 + notas 1 + notas + 2 notas ') / 4;
  console.log(` A média é ${media}. `);
 
 console.log(` ideal é {}. `);
