@@ -1,7 +1,7 @@
 const nomes = [" maycon vinicius " , "lucas wendel ","LUAN heenrique "];
 
-const nomesplanorizado = nomes.map (( nome)=>{
-return  nome.toUpperCase();
-});
+const nomesPlanorizado = nomes.map(( nome)=> nome.toUpperCase());
+ 
+;
 
-console.log( nomesplanorisazado);
+console.log( nomesPlanorizado);
